@@ -390,6 +390,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 ### Related projects and utilities
 
+* [MobX lit-element bindings](https://github.com/adobe/lit-mobx)
 * [MobX react bindings](https://github.com/mobxjs/mobx-react)
 * [MobX react bindings with Hooks support](https://github.com/mobxjs/mobx-react-lite)
 * [MobX remotedev: Use the Redux Devtools with MobX](https://github.com/zalmoxisus/mobx-remotedev)
